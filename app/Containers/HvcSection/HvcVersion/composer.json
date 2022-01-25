@@ -1,0 +1,6 @@
+{
+  "name": "apiato/hvcversion",
+  "description": "HvcVersion Container for apiato.",
+  "require": {
+  }
+}
